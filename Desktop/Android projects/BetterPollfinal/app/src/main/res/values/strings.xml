@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BetterPoll final</string>
+    <string name="new_request">New Request</string>
+    <string name="shuttle_service">Shuttle Service</string>
+    <string name="gatepass">Gatepass</string>
+    <string name="categories">Categories</string>
+</resources>
